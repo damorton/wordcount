@@ -1,3 +1,4 @@
+# Wordcount Flask application for counting the words in the alice.txt file
 from flask import Flask, jsonify
 from flask import request
 from fileinput import filename
